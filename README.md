@@ -145,14 +145,14 @@ Me chamo Vinicius Silva Lima, tenho 19 anos e sou natural de S√£o Paulo. Conclu√
 
 <table>
   <tr>
-    <td>
+    <td align="center">
       <img 
         alt="GitHub Stats" 
         height="200" 
         src="https://github-readme-stats.vercel.app/api?username=vslcode&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
       />
     </td>
-    <td>
+    <td align="center">
       <img 
         alt="Top Langs" 
         height="200" 
