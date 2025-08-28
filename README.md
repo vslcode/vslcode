@@ -1,6 +1,6 @@
 # 👨‍💻 Vinicius Silva
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Vinicius Silva Lima, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio junto com curso técnica em informatica no Senac. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICSUL. Sou apaixonado por tecnologia, desenvolvimento de sistemas e criação de interfaces intuitivas. Compartilho meus conhecimentos e projetos através do meu perfil no GitHub, e estou sempre em busca de novos aprendizados e desafios. 
 <p align="left">
