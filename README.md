@@ -1,181 +1,146 @@
-# 👨‍💻 Vinicius Silva
+# 👨‍💻 Vinicius Silva Lima
 
-**`Desenvolvedor FullStack`**
+### Desenvolvedor Backend | C# • .NET • ASP.NET Core
 
-Me chamo Vinicius Silva Lima, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio junto com curso técnica em informatica no Senac. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICSUL. Sou apaixonado por tecnologia, desenvolvimento de sistemas e criação de interfaces intuitivas. Compartilho meus conhecimentos e projetos através do meu perfil no GitHub, e estou sempre em busca de novos aprendizados e desafios. 
-<p align="left">
-  
-<a href="https://github.com/vslcode?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/vslcode?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-<a href="https://github.com/vslcode?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/vslcode?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Sou formado em **Análise e Desenvolvimento de Sistemas** e também **Técnico em Informática pelo SENAC**.
 
-                  
+Atualmente estou direcionando minha carreira para **Desenvolvimento Backend**, com foco no ecossistema **C# e .NET**, criando aplicações, APIs REST e projetos utilizando banco de dados.
+
+Tenho experiência profissional com **suporte técnico e análise de sistemas**, o que me proporcionou uma boa base em resolução de problemas, infraestrutura, banco de dados e atendimento a ambientes corporativos.
+
+Busco evoluir constantemente através de projetos práticos e estudos voltados para desenvolvimento de software.
+
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Foco atual
 
-<img 
-    align="left" 
+- C# e .NET
+- ASP.NET Core
+- APIs REST
+- Entity Framework Core
+- SQL
+- Git e GitHub
+- Boas práticas de desenvolvimento
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="left">
+
+<img
     alt="C#"
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+    title="C#"
+    width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 
-<img 
-    align="left" 
-    alt=".Net" 
-    title=".Net"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
-/>   
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+<img
+    alt=".NET"
+    title=".NET"
+    width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
 />
 
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+<img
+    alt="SQL Server"
+    title="SQL Server"
+    width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
 />
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
+<img
+    alt="MySQL"
     title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 
-<img 
-    align="left" 
-    alt="node.js" 
-    title="node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+<img
+    alt="Git"
+    title="Git"
+    width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"
-/>      
-        
-<br/>
-<br/>
+<img
+    alt="GitHub"
+    title="GitHub"
+    width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="170" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=vslcode&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="170" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vslcode&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 </p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+---
 
+## 📚 Também tenho conhecimento em
 
+<p align="left">
 
+<img
+    alt="HTML"
+    title="HTML"
+    width="35px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
 
+<img
+    alt="CSS"
+    title="CSS"
+    width="35px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
 
+<img
+    alt="JavaScript"
+    title="JavaScript"
+    width="35px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
 
+<img
+    alt="Node.js"
+    title="Node.js"
+    width="35px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+/>
+
+<img
+    alt="Python"
+    title="Python"
+    width="35px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+</p>
+
+---
+
+## 🎯 Objetivo
+
+Meu objetivo profissional é atuar como **Desenvolvedor Backend C#/.NET**, trabalhando com desenvolvimento de sistemas, APIs, banco de dados e aplicações corporativas.
+
+Atualmente estou construindo projetos para aprofundar meus conhecimentos em:
+
+`C#` • `.NET` • `ASP.NET Core` • `Entity Framework Core` • `APIs REST` • `SQL`
+
+---
+
+## 🤝 Conecte-se comigo
+
+<a href="https://www.linkedin.com/in/vinicius-silva-lima">
+    <img
+        alt="LinkedIn"
+        title="LinkedIn"
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+</a>
+
+<a href="https://github.com/vslcode">
+    <img
+        alt="GitHub"
+        title="GitHub"
+        src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
+</a>
