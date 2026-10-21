@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Minha Caixinha — Desafio R$ 5.000",
+  "short_name": "Minha Caixinha",
+  "description": "Controle de depósitos rumo aos R$ 5.000",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d0916",
+  "theme_color": "#100b1b",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
