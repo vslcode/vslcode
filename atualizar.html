@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b1220">
+<title>Atualizar Minha Caixinha</title>
+<style>
+:root{color-scheme:dark;font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;color:#eaf4ff;background:#0b1220}
+*{box-sizing:border-box}
+body{margin:0;min-height:100svh;display:grid;place-items:center;padding:22px;background:radial-gradient(ellipse at 50% 0%,#1b4257 0%,#0b1220 60%)}
+main{max-width:440px;width:100%;border:1px solid #2a455a;border-radius:24px;padding:28px;background:#132033;box-shadow:0 16px 40px #0006}
+.logo{display:grid;place-items:center;width:58px;height:58px;border-radius:16px;background:#18455f;border:1px solid #3f8095;font-size:28px}
+small{display:block;color:#83dcec;font-weight:800;letter-spacing:2px;margin:23px 0 7px;font-size:10px;text-transform:uppercase}
+h1{font-size:25px;letter-spacing:-.8px;margin:0 0 10px}
+p{color:#a9c0d2;line-height:1.6;font-size:14px}
+button,a.link{display:block;width:100%;border-radius:14px;min-height:50px;padding:15px 18px;text-align:center;line-height:20px;font-size:14px;font-weight:800;text-decoration:none;cursor:pointer}
+button{background:#24799b;border:1px solid #4ab1c8;color:white;margin-top:21px}
+button:disabled{opacity:.6}
+a.link{color:#9de8f1;margin-top:10px;background:transparent;border:1px solid #38566c}
+.status{font-size:12px;color:#b9eedd;min-height:36px;margin-top:14px}
+.note{margin-top:16px;padding-top:14px;border-top:1px solid #2d4357;color:#8ca4b9;font-size:12px}
+</style>
+</head>
+<body>
+<main>
+<div class="logo" aria-hidden="true">↻</div>
+<small>Minha Caixinha / Atualização</small>
+<h1>Nova versão disponível</h1>
+<p>Visual grafite e azul-ciano, com o desafio dos R$ 5.000 e a área do primeiro carro.</p>
+<p>O botão abaixo remove somente arquivos offline antigos deste aplicativo. <strong>Seus depósitos e seu histórico não serão apagados.</strong></p>
+<button type="button" id="update">Atualizar meu aplicativo</button>
+<a class="link" href="./index.html?version=20261022-neon">Abrir nova versão diretamente</a>
+<div class="status" role="status" aria-live="polite" id="status">Pronto para atualizar.</div>
+<div class="note">Não use a opção “Limpar dados do site” nas configurações do Chrome, pois ela pode apagar suas marcações.</div>
+</main>
+<script>
+(()=>{
+'use strict';
+const status=document.getElementById('status'),button=document.getElementById('update');
+button.addEventListener('click',async()=>{
+button.disabled=true;status.textContent='Atualizando os arquivos locais...';
+try{
+ if('serviceWorker' in navigator){
+  const url=new URL('./',location.href);
+  const regs=await navigator.serviceWorker.getRegistrations();
+  await Promise.all(regs.filter(r=>r.scope===url.href).map(r=>r.unregister()));
+ }
+ if('caches' in window){
+  const keys=await caches.keys();
+  await Promise.all(keys.filter(k=>k.startsWith('minha-caixinha-')).map(k=>caches.delete(k)));
+ }
+ status.textContent='Atualização preparada. Abrindo o aplicativo...';
+ location.replace('./index.html?atualizado=20261022-v5');
+}catch(e){
+ status.textContent='Não foi possível limpar todos os arquivos. Tentando abrir a versão nova...';
+ location.assign('./index.html?atualizado=20261022-v5');
+}
+});
+})();
+</script>
+</body>
+</html>
