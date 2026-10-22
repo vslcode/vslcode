@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "Minha Caixinha — Desafio R$ 5.000",
+  "name": "Minha Caixinha — Desafio e Primeiro Carro",
   "short_name": "Minha Caixinha",
-  "description": "Controle de depósitos rumo aos R$ 5.000",
+  "description": "Desafio dos R$ 5.000 e planejamento da entrada do primeiro carro",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
