@@ -2,12 +2,12 @@
   "id": "./",
   "name": "Minha Caixinha — Desafio e Primeiro Carro",
   "short_name": "Minha Caixinha",
-  "description": "Desafio dos R$ 5.000 e planejamento da entrada do primeiro carro",
+  "description": "Controle seus depósitos e a entrada do primeiro carro em um app moderno.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0d0916",
-  "theme_color": "#100b1b",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
   "lang": "pt-BR",
   "icons": [
     {
